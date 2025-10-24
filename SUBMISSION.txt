@@ -1,0 +1,8 @@
+Name: Shubham Patel
+Email: devang21@iitk.ac.in
+OS: Windows 11
+CPU: Intel i5
+RAM: 8 GB
+Language: Python
+Version: 3.10.12
+Solver Library: scipy 1.15.3
